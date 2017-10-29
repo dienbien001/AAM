@@ -76,7 +76,7 @@ namespace AAM_Service
 
             //Write log start job:
             logUtil.WriteLog("");
-            logUtil.WriteLog("Start job. Date to get Attendance logs: " + date.Date.ToString("dd-MM-yyyy"));
+            logUtil.WriteLog("job started");
             
             AAMLib.DevideInfoLib devLib = new AAMLib.DevideInfoLib(ConnStr);
             DBLib dbLib = new DBLib(ConnStrCC);
