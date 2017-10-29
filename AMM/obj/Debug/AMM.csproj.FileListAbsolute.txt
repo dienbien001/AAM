@@ -1,0 +1,13 @@
+D:\Personal\Source\Repos\AAM\AMM\obj\Debug\AMM.Form1.resources
+D:\Personal\Source\Repos\AAM\AMM\obj\Debug\AMM.Properties.Resources.resources
+D:\Personal\Source\Repos\AAM\AMM\obj\Debug\AMM.csproj.GenerateResource.Cache
+D:\Personal\Source\Repos\AAM\AMM\obj\Debug\AMM.csproj.CoreCompileInputs.cache
+D:\Personal\Source\Repos\AAM\AMM\bin\Debug\AMM.exe.config
+D:\Personal\Source\Repos\AAM\AMM\bin\Debug\AMM.exe
+D:\Personal\Source\Repos\AAM\AMM\bin\Debug\AMM.pdb
+D:\Personal\Source\Repos\AAM\AMM\bin\Debug\AAMLib.dll
+D:\Personal\Source\Repos\AAM\AMM\bin\Debug\Interop.zkemkeeper.dll
+D:\Personal\Source\Repos\AAM\AMM\bin\Debug\AAMLib.pdb
+D:\Personal\Source\Repos\AAM\AMM\obj\Debug\AMM.csprojResolveAssemblyReference.cache
+D:\Personal\Source\Repos\AAM\AMM\obj\Debug\AMM.exe
+D:\Personal\Source\Repos\AAM\AMM\obj\Debug\AMM.pdb

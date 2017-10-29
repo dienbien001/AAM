@@ -1,0 +1,13 @@
+D:\Personal\Source\Repos\AAM\AAM_Service\obj\Debug\AAM_Service.ProjectInstaller.resources
+D:\Personal\Source\Repos\AAM\AAM_Service\obj\Debug\AAM_Service.Properties.Resources.resources
+D:\Personal\Source\Repos\AAM\AAM_Service\obj\Debug\AAM_Service.csproj.GenerateResource.Cache
+D:\Personal\Source\Repos\AAM\AAM_Service\obj\Debug\AAM_Service.csproj.CoreCompileInputs.cache
+D:\Personal\Source\Repos\AAM\AAM_Service\obj\Debug\AAM_Service.csprojResolveAssemblyReference.cache
+D:\Personal\Source\Repos\AAM\AAM_Service\bin\Debug\AAM_Service.exe.config
+D:\Personal\Source\Repos\AAM\AAM_Service\bin\Debug\AAM_Service.exe
+D:\Personal\Source\Repos\AAM\AAM_Service\bin\Debug\AAM_Service.pdb
+D:\Personal\Source\Repos\AAM\AAM_Service\bin\Debug\AAMLib.dll
+D:\Personal\Source\Repos\AAM\AAM_Service\bin\Debug\Interop.zkemkeeper.dll
+D:\Personal\Source\Repos\AAM\AAM_Service\bin\Debug\AAMLib.pdb
+D:\Personal\Source\Repos\AAM\AAM_Service\obj\Debug\AAM_Service.exe
+D:\Personal\Source\Repos\AAM\AAM_Service\obj\Debug\AAM_Service.pdb

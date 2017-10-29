@@ -1,0 +1,4 @@
+D:\Personal\Source\Repos\AAM\AMM\obj\Release\AMM.Form1.resources
+D:\Personal\Source\Repos\AAM\AMM\obj\Release\AMM.Properties.Resources.resources
+D:\Personal\Source\Repos\AAM\AMM\obj\Release\AMM.csproj.GenerateResource.Cache
+D:\Personal\Source\Repos\AAM\AMM\obj\Release\AMM.csproj.CoreCompileInputs.cache

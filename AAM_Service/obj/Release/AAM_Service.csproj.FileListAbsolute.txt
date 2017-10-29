@@ -1,0 +1,4 @@
+D:\Personal\Source\Repos\AAM\AAM_Service\obj\Release\AAM_Service.ProjectInstaller.resources
+D:\Personal\Source\Repos\AAM\AAM_Service\obj\Release\AAM_Service.Properties.Resources.resources
+D:\Personal\Source\Repos\AAM\AAM_Service\obj\Release\AAM_Service.csproj.GenerateResource.Cache
+D:\Personal\Source\Repos\AAM\AAM_Service\obj\Release\AAM_Service.csproj.CoreCompileInputs.cache

@@ -1,0 +1,3 @@
+D:\Personal\Source\Repos\AAM\AAMLib\obj\Release\Interop.zkemkeeper.dll
+D:\Personal\Source\Repos\AAM\AAMLib\obj\Release\AAMLib.csproj.ResolveComReference.cache
+D:\Personal\Source\Repos\AAM\AAMLib\obj\Release\AAMLib.csproj.CoreCompileInputs.cache
