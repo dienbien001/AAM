@@ -76,7 +76,7 @@ namespace AAM_Service
 
             //Write log start job:
             logUtil.WriteLog("");
-            logUtil.WriteLog("job started");
+            logUtil.WriteLog("Job started");
             
             AAMLib.DevideInfoLib devLib = new AAMLib.DevideInfoLib(ConnStr);
             DBLib dbLib = new DBLib(ConnStrCC);
